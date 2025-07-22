@@ -68,6 +68,26 @@
 
 ---
 
+<h2 align="center">🛠️ Open Source Contributions</h2>
+
+<p align="center">
+  <a href="https://github.com/viboverse/SmartLog/pull/29" target="_blank">
+    <img src="https://img.shields.io/badge/Pull%20Request%20Merged-%F0%9F%94%A5%20SmartLog-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  ✅ Contributed to <strong>SmartLog</strong>, an open source MERN stack project.<br />
+  🐞 Fixed a duplicate import conflict in <code>Dashboard.jsx</code> that was blocking builds.<br />
+  🔗 <a href="https://github.com/viboverse/SmartLog/pull/29" target="_blank">View Pull Request #29</a>
+</p>
+
+---
+
+
+
+---
+
 <h2 align="center">🏆 Achievement Gallery</h2>
 
 <p align="center" style="margin-top: 30px; margin-bottom: 30px;">
