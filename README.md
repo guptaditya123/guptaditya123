@@ -8,9 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=guptaditya123&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Software%20Development%20Maestro&fontSize=42&fontColor=fff" />
-</p>
 
 ---
 
@@ -45,19 +42,25 @@
 <h2 align="center">📈 GitHub Analytics Dashboard</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Commits-Active-success?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Primary%20Stack-MERN-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-purple?style=for-the-badge" />
-</p>
-
-<p align="center">
   <img
     src="https://streak-stats.demolab.com?user=guptaditya123&theme=dark&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
 
+---
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=guptaditya123&show_icons=true&theme=dark&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaditya123&layout=compact&theme=dark&hide_border=true"
+    height="180"
+  />
+</p>
 
 ---
 
@@ -68,35 +71,18 @@
     src="https://github-readme-activity-graph.vercel.app/graph?username=guptaditya123&theme=github-dark&hide_border=true&cache_seconds=3600"
   />
 </p>
-
 ---
-
 <h2 align="center">🏆 Achievement Gallery</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Consistency-Regular%20Commits-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech%20Stack-MERN-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Scalability-orange?style=for-the-badge" />
-</p>
-
-
-
+  <p align="center" style="margin-top: 30px; margin-bottom: 30px;"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=guptaditya123&theme=darkhub&no-frame=true&row=2&column=4&margin-w=30&margin-h=25" /> </p>
 ---
-
-<h2 align="center">💫 Inspirational Tech Quote</h2>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
-
----
+<h2 align="center">💡 Random Dev Quote</h2>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+  />
 </p>
 
-<p align="center">
-  <strong>🌟 Thank you for exploring my development universe! 🌟</strong><br/>
-  <strong>⭐ Star some repositories if you found them helpful!</strong>
-</p>
+
+
