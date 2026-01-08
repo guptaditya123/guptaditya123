@@ -1,7 +1,7 @@
 # <h2 align="center">🌟 Welcome to My Digital Universe! 🌟</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Aditya+Gupta+%F0%9F%91%8B;Code+Crafter+%7C+Web+Wizard+%7C+Full+Stack+Explorer;Building+Scalable+and+Robust+Digital+Solutions+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+World!+I'm+Aditya+Gupta;Full-Stack+Developer+%7C+Problem+Solver;Turning+Ideas+into+Reality+with+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software%20Development%20Maestro&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Software%20Development%20Maestro&fontSize=42&fontColor=fff&animation=fadeIn" />
 </p>
 
 ---
@@ -58,12 +58,12 @@
 
 <h2 align="center">📈 GitHub Analytics Dashboard</h2>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guptaditya123&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaditya123&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guptaditya123&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="Aditya's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptaditya123&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guptaditya123&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=15"/>
+  <img src="https://streak-stats.demolab.com/?user=guptaditya123&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak Stats" />
 </p>
 
 ---
@@ -84,7 +84,11 @@
 
 ---
 
+<h2 align="center">📊 Contribution Graph</h2>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guptaditya123&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B6B" alt="Contribution Graph" />
+</p>
 
 ---
 
@@ -99,7 +103,7 @@
 <h2 align="center">💫 Inspirational Tech Quote</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Cory+House" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it's+bad.&author=Cory+House" />
 </p>
 
 
@@ -116,10 +120,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/guptaditya123/guptaditya123/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
   <strong>⭐ Star some repositories if you found them helpful!</strong>
 </p>
-
