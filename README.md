@@ -13,7 +13,7 @@
 
 <h1 align="center">🌐 Socials & Connect</h1>
 <div align="center">
-  <a href="https://instagram.com/__aditya__gupta"><img src="https://img.icons8.com/color/96/instagram-new.png" width="80"/></a>
+  <a href="https://instagram.com/___aditya__gupta"><img src="https://img.icons8.com/color/96/instagram-new.png" width="80"/></a>
   <a href="https://x.com/guptaditya81"><img src="https://img.icons8.com/color/96/twitter--v1.png" width="80"/></a>
   <a href="https://www.linkedin.com/in/aditya-gupta-2197581a6"><img src="https://img.icons8.com/color/96/linkedin.png" width="80"/></a>
   <a href="https://t.me/adityagupta222"><img src="https://img.icons8.com/color/96/telegram-app.png" width="80"/></a>
